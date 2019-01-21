@@ -1,0 +1,13 @@
+{
+  "productlist":[
+    {"id":"001","type3":"德国Aptamil","shopId": "001","shopname": "牛栏牌海外旗舰店","pic":"/static/img/pro1.png","slideArr":["/static/img/p1.png","/static/img/p2.png","/static/img/p3.png","/static/img/p4.png","/static/img/p5.png"],"name":"  aptamil/爱他美 新西兰版 900g 一段","price":"160","otherDir":["公益宝贝","满300减30"],"sale":"467","place":"上海","runprice":"10.00"},
+    {"id":"002","type3":"德国Aptamil","shopId": "001","shopname": "牛栏牌海外旗舰店","pic":"/static/img/pro2.png","slideArr":["/static/img/p6.png","/static/img/p7.png","/static/img/p8.png","/static/img/p9.png","/static/img/p10.png"],"name":"  aptamil/爱他美 德国爱他美pre 800g ","price":"130","otherDir":["公益宝贝","满300减30"],"sale":"1467","place":"上海","runprice":"10.00"},
+    {"id":"003","type3":"德国Aptamil","shopId": "002","shopname": "nutrilon官方旗舰店","pic":"/static/img/pro3.png","slideArr":["/static/img/p11.png","/static/img/p12.png","/static/img/p13.png","/static/img/p14.png","/static/img/p15.png"],"name":"  aptamil/爱他美 德国爱他美 800g ","price":"160","otherDir":["公益宝贝"],"sale":"467","place":"上海","runprice":"免邮"},
+    {"id":"004","type3":"德国Aptamil","shopId": "002","shopname": "nutrilon官方旗舰店","pic":"/static/img/pro4.png","slideArr":["/static/img/p16.png","/static/img/p17.png","/static/img/p18.png","/static/img/p19.png","/static/img/p20.png"],"name":"【直营】德国Aptamil爱他美原装进口英国版婴幼儿配方奶粉2段900g","price":"120","otherDir":["公益宝贝"],"sale":"223","place":"上海","runprice":"10.00"},
+    {"id":"005","type3":"加厚棉衣","shopId": "003","shopname": "以杉旗舰店","pic":"/static/img/pro5.png","slideArr":["/static/img/p21.png","/static/img/p22.png"],"name":"男士外套2018冬季新款韩版潮流冬天羽绒潮棉服棉袄冬装休闲男棉衣","price":"160","otherDir":["公益宝贝","满300减30"],"sale":"467","place":"上海","runprice":"免邮"},
+    {"id":"006","type3":"加厚棉衣","shopId": "003","shopname": "以杉旗舰店","pic":"/static/img/pro6.png","slideArr":["/static/img/p23.png","/static/img/p24.png"],"name":"男外套冬季2018新款韩版潮短款面包冬天帅气冬装羽绒棉服棉袄棉衣","price":"130","otherDir":["公益宝贝","满300减30"],"sale":"1467","place":"上海","runprice":"免邮"},
+    {"id":"007","type3":"加厚棉衣","shopId": "004","shopname": "panmax旗舰店","pic":"/static/img/pro7.png","slideArr":["/static/img/p25.png","/static/img/p26.png"],"name":"男士外套冬季2018新款韩版潮流工装羽绒棉服冬天棉袄加厚棉衣男装","price":"160","otherDir":["公益宝贝"],"sale":"467","place":"上海","runprice":"10.00"},
+    {"id":"008","type3":"加厚棉衣","shopId": "004","shopname": "panmax旗舰店","pic":"/static/img/pro8.png","slideArr":["/static/img/p27.png","/static/img/p28.png"],"name":"C＆A立体口袋徽标连帽棉服男 休闲仿羊羔绒夹棉外套CA200211106","price":"120","otherDir":["公益宝贝"],"sale":"223","place":"杭州","runprice":"免邮"}
+
+  ]
+}

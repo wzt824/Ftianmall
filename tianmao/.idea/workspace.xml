@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c45c53fb-b905-4850-8e88-8700c4e5d0ea" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="76063953">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="js" value="5" />
+          <entry key="json" value="3" />
+          <entry key="vue" value="33" />
+          <entry key="www" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="6" />
+          <entry key="Vue.js" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="json" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/businessarea/BusinessareaMain.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="e#702#724#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/complexcart.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/index/IndexMain.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/index/GuessLove.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5源代码/tianmao/static/json/imgsArr2.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/login.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/fenlei/FenleiNavBox.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/fenlei/FenleiNavList.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/fenlei/FenleiRightBox.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/fenlei/FenleiRightBoxSub.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/pages/productlist.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/productlist/ProductBox.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/productlist/ProductlistHeader.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/productlist/ProductMainBox.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/productinfo/ProductinfoFooter.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/productinfo/ProductinfoHeader.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/productinfo/ProductinfoImgShow.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/productinfo/ProductinfoLineShow.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/productinfo/ProductinfoTips.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/pages/login.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/login/LoginFace.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/login/LoginForm.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/login/LoginHeader.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/pages/cart.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/cart/CartHeader.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/cart/CartTip.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/cart/DelSelect.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/cart/ShopHeader.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/cart/ShopMoudle.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/cart/ShopProduct.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/cart/TotleCount.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/pages/complexcart.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/complexcart/CartHeader.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/complexcart/DelSelect.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/complexcart/ShopHeader.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/complexcart/ShopMoudle.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/complexcart/ShopProduct.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/complexcart/TotleCount.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/App.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/businessarea/BusinessareaMain.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/pages/businessarea.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/pages/index.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/pages/my.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/plant/ChoicenessEditions.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/plant/PlantBanner.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/plant/PlantHeader.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/pages/plant.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/index/GuessLove.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/index/MyindexHeader.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/index.html" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/index/IndexMain.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/router/index.js" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/fenlei/FenleiMain.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/store.js" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/pages/productinfo.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/src/components/businessarea/BusineaaareaLocalPlace.vue" />
+        <option value="$PROJECT_DIR$/5源代码/tianmao/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/5源代码/tianmao-server/node_modules" />
+    <handled-path value="$PROJECT_DIR$/5源代码/tianmao/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/5源代码/tianmao-server/package.json" />
+      <path value="$PROJECT_DIR$/5源代码/tianmao/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/de-indent/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vue-template-compiler/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vue/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/vue2-scrollbar/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="760" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tianmao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tianmao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="5源代码" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tianmao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="5源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tianmao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="5源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tianmao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="5源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tianmao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="5源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tianmao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="5源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tianmao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="5源代码" type="462c0819:PsiDirectoryNode" />
+              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/jd-project/源代码" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\program\tianmao\5源代码\tianmao\src\pages" />
+      <recent name="E:\program\tianmao\5源代码\tianmao\src\components" />
+      <recent name="E:\program\tianmao\5源代码\tianmao\static\json" />
+      <recent name="E:\program1807\tianmao\5源代码\tianmao\src\assets\css" />
+      <recent name="E:\program1807\tianmao\5源代码\tianmao\src\assets\font" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="www" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/5源代码/tianmao-server/bin/www" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.www" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c45c53fb-b905-4850-8e88-8700c4e5d0ea" name="Default Changelist" comment="" />
+      <created>1544518681741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544518681741</updated>
+      <workItem from="1544518685959" duration="14574000" />
+      <workItem from="1544573919326" duration="25822000" />
+      <workItem from="1544660826897" duration="43740000" />
+      <workItem from="1544747767246" duration="25408000" />
+      <workItem from="1544833872347" duration="22453000" />
+      <workItem from="1544942114262" duration="20730000" />
+      <workItem from="1545006759747" duration="36855000" />
+      <workItem from="1545049192480" duration="7271000" />
+      <workItem from="1545092874839" duration="23837000" />
+      <workItem from="1545124883395" duration="14972000" />
+      <workItem from="1545142559323" duration="1158000" />
+      <workItem from="1545179258038" duration="35509000" />
+      <workItem from="1545227264817" duration="436000" />
+      <workItem from="1545229568593" duration="132000" />
+      <workItem from="1545266227304" duration="156000" />
+      <workItem from="1545266482390" duration="1476000" />
+      <workItem from="1545273017242" duration="1770000" />
+      <workItem from="1545285116826" duration="11355000" />
+      <workItem from="1545298232637" duration="734000" />
+      <workItem from="1545361380375" duration="370000" />
+      <workItem from="1545374272128" duration="2488000" />
+      <workItem from="1545378300280" duration="1090000" />
+      <workItem from="1545383006864" duration="2271000" />
+      <workItem from="1545396316906" duration="5434000" />
+      <workItem from="1545442983628" duration="21625000" />
+      <workItem from="1545611883629" duration="703000" />
+      <workItem from="1545633346799" duration="18793000" />
+      <workItem from="1545698874021" duration="5693000" />
+      <workItem from="1545722139301" duration="30000" />
+      <workItem from="1545728442975" duration="7511000" />
+      <workItem from="1545793553223" duration="607000" />
+      <workItem from="1545803615541" duration="9937000" />
+      <workItem from="1545830599539" duration="1419000" />
+      <workItem from="1546432533763" duration="1874000" />
+      <workItem from="1546505166268" duration="8898000" />
+      <workItem from="1546527528598" duration="3472000" />
+      <workItem from="1546568404852" duration="10401000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="391004000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22544643" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1210084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49920508" weight="0.32919255" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49841017" weight="0.47058824" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50158983" side_tool="true" weight="0.32919255" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/node_modules/vue-scroller/demo/components/CustomSpinner.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/node_modules/vue-pull-refresh/src/vue-pull-refresh.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1216">
+          <caret line="59" column="25" lean-forward="true" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/node_modules/vue-scrollbar/assets/img/share.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/node_modules/vue-scrollbar/src/js/components/app.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/node_modules/vue-scroller/src/components/Arrow.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/node_modules/vue-scroller/src/components/Scroller.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5092">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/node_modules/vue-scroller/src/components/Spinner.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/node_modules/vue-scroller/demo/components/NavBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/node_modules/vue-scroller/demo/components/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="104" column="17" lean-forward="true" selection-start-line="104" selection-start-column="17" selection-end-line="104" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/login/LoginHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao-server/data/imgsArr1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao-server/data/imgsArr2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao-server/data/indexdata.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao-server/data/product.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/static/json/shopinfo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/index/MyindexHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/businessarea/BusinessareaHeader.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/businessarea/BusineaaareaLocalPlace.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao-server/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao-server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao-server/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao-server/data/businessareadata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/1228353600/FileRecv/PublicFooter.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" selection-start-line="18" selection-end-line="53" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao-server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/commons/urlimgArr2apis.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/commons/urlbusinessareaapis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/businessarea/HotChoice.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/productlist/ProductBox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/productlist/ProductMainBox.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/productlist.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/cart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="136" column="27" lean-forward="true" selection-start-line="136" selection-start-column="27" selection-end-line="136" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/businessarea.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/my.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/plant.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/productinfo/ProductinfoImgShow.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/productinfo/ProductinfoLineShow.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/productinfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/businessarea/BusinessareaMain.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#702#724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/complexcart/CartHeader.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/complexcart.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao-server/routes/businessareaapis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/pages/login.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/static/json/imgsArr2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/index/IndexMain.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5源代码/tianmao/src/components/index/GuessLove.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+[
+  {
+    "shopId":"001",
+    "shopname":"牛栏牌海外旗舰店",
+    "checkStatus":true,
+    "productArr":[
+      {"id":"001","price":160,"pic":"/static/img/pro1.png","num":"5","name":" aptamil/爱他美 新西兰版 900g 一段","checkStatus":true},
+      {"id":"002","price":130,"pic":"/static/img/pro2.png","num":"1","name":"aptamil/爱他美 德国爱他美pre 800g","checkStatus":true}
+    ]
+  },
+  {
+    "shopId":"003",
+    "shopname":"以杉旗舰店",
+    "checkStatus":true,
+    "productArr":[
+      {"id":"005","price":467,"pic":"/static/img/pro5.png","num":"3","name":"男士外套冬季2018新款韩版潮流工装羽绒棉服冬天棉袄加厚棉衣男装","checkStatus":true},
+      {"id":"006","price":1467,"pic":"/static/img/pro6.png","num":"1","name":"C＆A立体口袋徽标连帽棉服男 休闲仿羊羔绒夹棉外套CA200211106","checkStatus":true}
+    ]
+  }
+]

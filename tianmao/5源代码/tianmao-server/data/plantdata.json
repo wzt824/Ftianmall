@@ -1,0 +1,33 @@
+{
+  "headerinfo":{"pic":"/static/img/b1.jpg"},
+  "bannerinfo":{"bgpic":"/static/img/b1.jpg"},
+  "choicenesseditionsinfo":{
+    "title":"精选栏目",
+    "slider":[
+      {"pic":"/static/img/1.png","time":"今日更新"},
+      {"pic":"/static/img/2.png","time":"12:30"},
+      {"pic":"/static/img/1.png","time":"今日更新"},
+      {"pic":"/static/img/2.png","time":"12:30"}
+    ]
+  },
+  "redTodayInfo":{
+    "title":"今日红人",
+    "picArr":[
+      {"facepic":"/static/img/f1.png","line1":"美人秀秀","line2":"认证达人"},
+      {"slidePic":"/static/img/9.png"},
+      {"slidePic":"/static/img/10.png"},
+      {"slidePic":"/static/img/9.png"},
+      {"slidePic":"/static/img/10.png"},
+      {"slidePic":"/static/img/9.png"}
+    ]
+  },
+  "imgsArr":[
+    {"src":"/static/img/3.png","href":"javascript:0;","personface":"/static/img/face1.png","personname":"小兮当家","info":"女汉子一秒变软妹子，你相信吗？快来看看！"},
+    {"src":"/static/img/8.png","href":"javascript:0;","personface":"/static/img/face1.png","personname":"福利喵","info":"女汉子一秒变软妹子，你相信吗？快来看看！"},
+    {"src":"/static/img/5.png","href":"javascript:0;","personface":"/static/img/face1.png","personname":"极客帮派","info":"女汉子一秒变软妹子，你相信吗？快来看看！"},
+    {"src":"/static/img/6.png","href":"javascript:0;","personface":"/static/img/face1.png","personname":"张沫凡MoMo","info":"女汉子一秒变软妹子，你相信吗？快来看看！"},
+    {"src":"/static/img/7.png","href":"javascript:0;","personface":"/static/img/face1.png","personname":"凡货生活","info":"女汉子一秒变软妹子，你相信吗？快来看看！"},
+    {"src":"/static/img/8.png","href":"javascript:0;","personface":"/static/img/face1.png","personname":"AI优活","info":"女汉子一秒变软妹子，你相信吗？快来看看！"},
+    {"src":"/static/img/4.png","href":"javascript:0;","personface":"/static/img/face1.png","personname":"一颗鱼蛋在说话","info":"女汉子一秒变软妹子，你相信吗？快来看看！"}
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "proArr": [
+    {
+      "type1": "天猫国际", "subArr": [
+      {"type2":"母婴用品",
+        "subArr2":[
+          {"pic":"/static/img/fen1.png","name":"德国Aptamil"},
+          {"pic":"/static/img/fen2.png","name":"荷兰诺优能"},
+          {"pic":"/static/img/fen3.png","name":"澳洲贝拉米"}
+        ]
+      },
+      {"type2":"食品",
+        "subArr2":[
+          {"pic":"/static/img/fen4.png","name":"巧克力"},
+          {"pic":"/static/img/fen5.png","name":"坚果"},
+          {"pic":"/static/img/fen6.png","name":"饼干"},
+          {"pic":"/static/img/fen7.png","name":"蜂蜜"}
+        ]
+      },
+      {"type2":"服装服饰",
+        "subArr2":[
+          {"pic":"/static/img/fen8.png","name":"男装"},
+          {"pic":"/static/img/fen9.png","name":"旅行箱"},
+          {"pic":"/static/img/fen10.png","name":"运动鞋"},
+          {"pic":"/static/img/fen11.png","name":"手表"},
+          {"pic":"/static/img/fen12.png","name":"运动服"},
+          {"pic":"/static/img/fen13.png","name":"男鞋"}
+        ]
+      }
+    ]
+    },
+    {"type1": "男装", "subArr": [
+      {"type2":"潮流上装",
+        "subArr2":[
+          {"pic":"/static/img/fen14.png","name":"T恤"},
+          {"pic":"/static/img/fen15.png","name":"衬衫"},
+          {"pic":"/static/img/fen16.png","name":"风衣"}
+        ]
+      },
+      {"type2":"棉衣",
+        "subArr2":[
+          {"pic":"/static/img/fen17.png","name":"迷彩棉衣"},
+          {"pic":"/static/img/fen18.png","name":"加厚棉衣"},
+          {"pic":"/static/img/fen19.png","name":"修身棉衣"}
+        ]
+      }
+    ]
+    },
+    {"type1": "生鲜", "subArr": [
+      {"type2":"新鲜水果",
+        "subArr2":[
+          {"pic":"/static/img/fen20.png","name":"奇异果"},
+          {"pic":"/static/img/fen21.png","name":"芒果"},
+          {"pic":"/static/img/fen22.png","name":"火龙果"},
+          {"pic":"/static/img/fen23.png","name":"苹果"}
+        ]
+      },
+      {"type2":"新鲜蔬菜",
+        "subArr2":[
+          {"pic":"/static/img/fen24.png","name":"土豆"},
+          {"pic":"/static/img/fen25.png","name":"山药"},
+          {"pic":"/static/img/fen26.png","name":"番茄"}
+        ]
+      }
+    ]
+    }
+  ]
+}

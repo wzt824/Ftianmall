@@ -1,0 +1,16 @@
+[	
+{
+	"shopId":"001","shopname":"≈£¿∏≈∆∫£Õ‚∆ÏΩ¢µÍ",
+	"productArr":[
+		{"id":"001","price":"180","img":"/static/img/p1.png","num":"1"},
+		{"id":"002","price":"180","img":"/static/img/p1.png","num":"1"}
+	]
+},
+{
+	"shopId":"001","shopname":"≈£¿∏≈∆∫£Õ‚∆ÏΩ¢µÍ",
+	"productArr":[
+		{"id":"001","price":"180","img":"/static/img/p1.png","num":"1"},
+		{"id":"002","price":"180","img":"/static/img/p1.png","num":"1"}
+	]
+}
+]

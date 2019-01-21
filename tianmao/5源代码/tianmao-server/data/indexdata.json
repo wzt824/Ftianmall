@@ -1,0 +1,65 @@
+{
+  "header":{"selectvalue":"男棉服2018新款"},
+  "navinfo":[
+    {"pic":"/static/img/1.jpg","text":"苏宁易购"},
+    {"pic":"/static/img/2.jpg","text":"天猫超市"},
+    {"pic":"/static/img/3.jpg","text":"天猫国际"},
+    {"pic":"/static/img/4.jpg","text":"聚划算"},
+    {"pic":"/static/img/5.jpg","text":"分类"},
+    {"pic":"/static/img/6.jpg","text":"天猫闪购"},
+    {"pic":"/static/img/7.jpg","text":"免费领水果"},
+    {"pic":"/static/img/8.jpg","text":"积分兑红包"},
+    {"pic":"/static/img/9.jpg","text":"粉丝福利社"},
+    {"pic":"/static/img/10.jpg","text":"小学生专享"}
+  ],
+  "gifinfo":{"imgInfo":"/static/img/1.gif"},
+  "picInfo":[
+    {"pic":"/static/img/banner1.jpg","colors":"rgb(239,239,239)"},
+    {"pic":"/static/img/banner2.jpg","colors":"rgb(226,237,247)"},
+    {"pic":"/static/img/13.jpg","colors":"rgb(251,236,232)"},
+    {"pic":"/static/img/14.jpg","colors":"rgb(254,242,216)"},
+    {"pic":"/static/img/banner3.jpg","colors":"rgb(242,211,152)"}
+  ],
+  "blockinfo":[
+    {"h2":"限时抢购","pic":["/static/img/16.jpg","/static/img/17.jpg"],"dir":["每300减30","每300减30"]},
+    {"h2":"天猫好物","pic":["/static/img/18.jpg","/static/img/19.jpg"],"dir2":["潮男养成","玩出科技感"]},
+    {"h2":"聚划算","pic":["/static/img/20.jpg","/static/img/21.jpg"],"dir":["抢50元劵","每300减30"]},
+    {"h2":"天猫闪购","pic":["/static/img/22.jpg","/static/img/23.jpg"],"dir":["已降50元","已降44元"]}
+  ],
+  "blockinfo2":[
+    {"pic":"/static/img/24.jpg","tit":"图书乐器","dir":"限时抢大额劵","bg":"/static/img/bg1.png"},
+    {"pic":"/static/img/25.jpg","tit":"通信娱乐","dir":"12元12G","bg":"/static/img/bg2.png"},
+    {"pic":"/static/img/26.jpg","tit":"男女鞋会场","dir":"满300减30","bg":"/static/img/bg3.png"},
+    {"pic":"/static/img/27.jpg","tit":"男装现场","dir":"抢大额优惠劵","bg":"/static/img/bg4.png"}
+  ],
+  "rangBox":{
+    "title":"天猫榜单",
+    "left":{"name":"棉质保暖裤榜","dir":"月销59.9万件"},
+    "right":{"pic":["/static/img/b5.jpg","/static/img/b5.jpg"]},
+    "rang2":[
+      {"text1":"人气榜","text2":"韩版羽绒男装榜","text3":"月销39.5万件","pic":"/static/img/r1.jpg"},
+      {"text1":"人气榜","text2":"韩版羽绒男装榜","text3":"月销39.5万件","pic":"/static/img/r2.jpg"},
+      {"text1":"人气榜","text2":"韩版羽绒男装榜","text3":"月销39.5万件","pic":"/static/img/r3.jpg"},
+      {"text1":"人气榜","text2":"韩版羽绒男装榜","text3":"月销39.5万件","pic":"/static/img/r4.jpg"},
+      {"text1":"人气榜","text2":"韩版羽绒男装榜","text3":"月销39.5万件","pic":"/static/img/r1.jpg"},
+      {"text1":"人气榜","text2":"韩版羽绒男装榜","text3":"月销39.5万件","pic":"/static/img/r2.jpg"}
+    ]
+  },
+  "guesslove":{
+    "h2":{
+      "text":"猜你喜欢",
+      "picL":"/static/img/left.png",
+      "picR":"/static/img/right.png"
+    },
+    "pdata":[
+      {"src":"/static/img/p1.jpg","href":"javascript:0;","pname":"真皮卡包男士大容量证件位卡套小巧卡片包","price":"19.8","recommend":"推荐 ：质量很好 很舒服 保暖"},
+      {"src":"/static/img/p2.jpg","href":"javascript:0;","pname":"花花公子男鞋透气网面单鞋运动鞋","price":"19.8","recommend":"推荐 ：质量很好 很舒服 保暖"},
+      {"src":"/static/img/p3.jpg","href":"javascript:0;","pname":"冬棉袄男装棉衣加绒加厚男棉服冬季薄款冲锋防风上衣外套大码潮流","price":"19.8","recommend":"推荐 ：质量很好 很舒服 保暖"},
+      {"src":"/static/img/p4.jpg","href":"javascript:0;","pname":"神州骆驼秋季男士宽松外套男夹克大码多袋工装纯色防水速干茄克潮","price":"19.8","recommend":"推荐 ：质量很好 很舒服 保暖"},
+      {"src":"/static/img/p5.jpg","href":"javascript:0;","pname":"英爵伦 冬季男装中长款棉衣 2018新款棉服 外套加厚潮牌帅气棉袄","price":"19.8","recommend":"推荐 ：质量很好 很舒服 保暖"},
+      {"src":"/static/img/p6.jpg","href":"javascript:0;","pname":"科沃斯扫地机器人地宝DJ35吸尘器智能家用超薄全自动洗擦地机拖地","price":"19.8","recommend":"推荐 ：质量很好 很舒服 保暖"},
+      {"src":"/static/img/p1.jpg","href":"javascript:0;","pname":"欧莱雅安瓶面膜复颜玻尿酸水光充盈导入鲜注补水保湿面膜15片正品","price":"19.8","recommend":"推荐 ：质量很好 很舒服 保暖"},
+      {"src":"/static/img/p2.jpg","href":"javascript:0;","pname":"Lenovo联想拯救者Y7000游戏笔记本电脑15.6英寸(GTX1050Ti 4G显卡/i5-8300H/8G/512G SSD)","price":"19.8","recommend":"推荐 ：质量很好 很舒服 保暖"}
+    ]
+  }
+}
